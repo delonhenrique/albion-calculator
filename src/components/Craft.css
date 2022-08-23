@@ -1,0 +1,15 @@
+.loading {
+    font-size: 3.5em;
+}
+
+th, td {
+    margin: 0;
+    padding: 0;
+    width: 180px;
+    border: 1px solid white;
+    text-align: center;
+    background: lightgray;
+    color: #313239;
+    border-radius: 5px;
+    font-size: 1.5em;
+}

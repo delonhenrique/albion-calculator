@@ -1,0 +1,10 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background: #313239;
+    min-height: 90vh;
+    color: lightgray;
+    width: 100%;
+    overflow: hidden;
+}
